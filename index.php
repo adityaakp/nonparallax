@@ -28,7 +28,7 @@
             <li><a href="#about" data-after="About">About</a></li>
             <li><a href="#services" data-after="Service">Tujuan</a></li>
             <li><a href="#projects" data-after="Projects">Visualisasi</a></li>
-            <li><a href="partner.html" data-after="Projects">Become a Partner</a></li>
+            <li><a href="partner.php" data-after="Projects">Become a Partner</a></li>
           </ul>
         </div>
       </div>
