@@ -13,7 +13,7 @@
     <div class="header container">
       <div class="nav-bar">
         <div class="brand">
-          <a href="index.html" class="logo-link">
+          <a href="index.php" class="logo-link">
             <img src="img/Desain tanpa judul (3).png" alt="Logo" class="logo">
           </a>
         </div>
