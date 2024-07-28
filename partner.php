@@ -13,7 +13,7 @@
     <div class="header container">
       <div class="nav-bar">
         <div class="brand">
-          <a href="index.php" class="logo-link">
+          <a href="index.html" class="logo-link">
             <img src="img/Desain tanpa judul (3).png" alt="Logo" class="logo">
           </a>
         </div>
@@ -140,7 +140,7 @@
       console.log('Data collected', { email, companyName, companyAdress, phoneNumber, companyWebsite, detailbrandcompany });
 
       // Membuat data dalam format x-www-form-urlencoded
-      const data = email=${encodeURIComponent(email)}&companyName=${encodeURIComponent(companyName)}&companyAdress=${encodeURIComponent(companyAdress)}&phoneNumber=${encodeURIComponent(phoneNumber)}&companyWebsite=${encodeURIComponent(companyWebsite)}&detailbrandcompany=${encodeURIComponent(detailbrandcompany)};
+      const data = `email=${encodeURIComponent(email)}&companyName=${encodeURIComponent(companyName)}&companyAdress=${encodeURIComponent(companyAdress)}&phoneNumber=${encodeURIComponent(phoneNumber)}&companyWebsite=${encodeURIComponent(companyWebsite)}&detailbrandcompany=${encodeURIComponent(detailbrandcompany)}`;
 
       console.log('Sending data to API', data); 
 

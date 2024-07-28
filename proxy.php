@@ -30,6 +30,6 @@ if ($result === FALSE) {
     echo json_encode(['error' => 'Request failed']);
     exit;
 }
-echo $result;
 
+echo $result;
 ?>
