@@ -13,7 +13,7 @@
     <div class="header container">
       <div class="nav-bar">
         <div class="brand">
-          <a href="index.html" class="logo-link">
+          <a href="index.php" class="logo-link">
             <img src="img/Desain tanpa judul (3).png" alt="Logo" class="logo">
           </a>
         </div>
@@ -81,7 +81,7 @@
           </div>
           <div class="col-md-2">
             <h6 class="text-uppercase font-weight-bold">
-              <a href="FAQ.html" class="text-white">FAQ</a>
+              <a href="FAQ.php" class="text-white">FAQ</a>
             </h6>
           </div>
         </div>

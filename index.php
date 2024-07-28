@@ -204,7 +204,7 @@
         </div>
         <div class="col-md-2">
           <h6 class="text-uppercase font-weight-bold">
-            <a href="FAQ.html" class="text-white">FAQ</a>
+            <a href="FAQ.php" class="text-white">FAQ</a>
           </h6>
         </div>
       </div>
